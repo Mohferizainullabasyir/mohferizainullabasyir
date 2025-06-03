@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00F0FF&center=true&vCenter=true&width=600&lines=✨+I'M+Moh+Feri+Zainulla+Basyir+✨;🚀+Front-End+Development;🌱+Django+Specialist;💡+Tech+for+Rural+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+Coder's✨+I'M+Moh+Feri+Zainulla+Basyir+✨;🚀+My skill+Front-End+Development;🌱+Django+Specialist;💡+Tech+for+Rural+Development" />
 </h1>
 
 <p align="center">
