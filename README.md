@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=500&color=00F0FF&center=true&vCenter=true&width=600&lines=✨+Moh+Feri+Zainulla+Basir+✨;🚀+Full-Stack+Developer;🌱+Django+Specialist;💡+Tech+for+Rural+Development" alt="Animated typing" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=00F0FF&center=true&vCenter=true&width=600&lines=✨+Moh+Feri+Zainulla+Basir+✨;🚀+Front-End+Developer;🌱+Django+Specialist;💡+Tech+for+Rural+Development" />
 </h1>
 
 <p align="center">
